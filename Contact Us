@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Contact Us|Cars</title>
+<link rel="stylesheet" type="text/css" href="css/check.css">
+</head>
+
+<body>
+<header class="header">
+<div class= "logo">
+<img src="images/Logo.png" alt="Logo">
+</div>
+<nav class="nav">
+<ul>
+<li><a href="Index.html">Index</a></li>
+<li><a href="AboutUs.html">About Us</a></li>
+<li><a href="Lessons.html">Lessons</a></li>
+<li><a href="Resources.html">Resources</a></li>
+<li><a href="ContactUs.html">Contact Us</a></li>
+</ul>
+</nav>
+</header>
+
+<h1>
+<u>Contact Us</u>
+</h1>
+<img src="images/Carcon.jpg" class="img" alt="Car" width="900">
+<br><br><br><br>
+<p>Fill out the form and state your issue.</p>
+
+<form action="submitted.html" method="GET">
+<div>
+<label for="Title">Title:</label>
+<select id="Title" name="Title">
+<option value="Miss">Miss</option>
+<option value="Mr">Mr</option>
+<option value="Mrs">Mrs</option>
+<option value="Ms">Ms</option>
+</select>
+</div>
+<br>
+<div>
+<label for="Name">Full Name:</label>
+<input type="text" id="Name" name="Full Name" Placeholder="eg: John Smith" required>
+</div>
+<br>
+<div>
+<label for="Email">Email:</label>
+<input type="email" id="Email" name= "Email" Placeholder="eg: ...@gmail.com" required>
+</div>
+<br>
+<div>
+<label for="Number">Phone Number:</label>
+<input type="tel" id="Number" name="Phone Number" Placeholder="12345678910" required>
+</div>
+<br>
+<div>
+<label for="Issue">Issue:</label>
+<textarea id="Issue" name="Issue" Placeholder="Type" maxlength="100" required></textarea>
+</div>
+<br>
+<div>
+<button type="reset">Reset</button>
+<button type="submit">Submit</button>
+</div>
+</form>
+</body>
+</html>
+
