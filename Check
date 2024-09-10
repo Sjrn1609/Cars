@@ -1,0 +1,119 @@
+body {background-color: black;}
+/*The line above changes the background colour of the entire website to black*/
+
+.header{
+width: 100%;
+height: 60px;
+background-color: white;
+display: flex;
+justify-content: space-between;}
+/*The header is the white bar on top of the page*/
+
+.logo{width: fit-content;
+height:100%;
+padding-left: 60px;
+display: flex;}
+
+.logo img{height: 40px;
+align-self: center;}
+
+.nav{width: fit-content;
+height:100%;
+font-size: 25px;}
+
+.nav ul{list-style: none;
+margin-left: 30px;}
+
+.nav ul li {display: inline;
+float: left;}
+/*Styles the program so the links are on the same line instead of being below each other*/
+
+.nav ul li a{Padding: 0 10px;
+font-family: Arial;
+line-height: 10px}
+
+.nav ul li a:hover {color: blue;}
+/*This makes it so when you hover above a link it will turn blue*/
+
+
+h1 {color: purple; 
+font-size: 70px;
+font-family: impact;
+text-align: center;
+text-transform: uppercase;
+border: purple solid 5px;}
+
+
+.img{ display: block;
+margin-left: auto;
+margin-right: auto;}
+/*This will place the image in the middle on all lines of HTML code that has the class "img"*/
+
+.center{color: white;
+font-size: 20px;
+font-family: Arial;
+text-align: center;}
+/*This makes the sentence on the index page to be in the middle*/
+
+div p{font-size: 25px;}
+/*This is for a paragraph on the about us page*/
+
+p{color: white;
+font-size: 20px;
+font-family: Arial;}
+/*Any paragraph on each page will be white and in Arial starting on the left side.*/
+
+.red {color: red;
+font-family: Arial;
+padding-bottom: .50em;}
+/*This will make the list on about us page be red*/
+
+.vid{ display: block;
+margin-left: auto;
+margin-right: auto;}
+/*Styles the video on lessons to be in the middle*/
+
+h2 {color: purple; 
+font-size: 40px;
+font-family: Impact;
+text-transform: uppercase;}
+/*Different to h1 this heading, size is less and also doesn't appear in the center.*/
+
+h3 {color: purple; 
+font-size: 30px;
+font-family: Impact;
+text-transform: uppercase;}
+
+
+table {width: 100%;
+color: white;
+Font-size: 25px;
+Font-family: Arial;
+Text-align: center;
+Text-transform: uppercase;}
+/*The lines above are for the writing inside the table. It is white and in Arial. It will all turn into uppercase*/   
+
+th{border: 3px solid purple;}
+td{border: 3px solid purple;}
+/*The two lines above say how the tables margins will be. The will be purple solid lines.*/
+
+ol{border: dotted blue;
+color: white;
+Font-size: 20px;}
+/*This list is on lessons and will have a dotted blue border*/
+
+li{ padding-bottom: .50em;}
+
+div ul{color: white;
+Font-size: 25px;}
+
+div ul li{ padding-bottom: .50em;
+border: dashed blue;}
+div ul li a {color:white;}
+div ul li a:hover {color: blue;}
+/*The lines above are for the list. It says that it will be styled using blue dashed lines and there will be space between each white link. When hovered above it will turn blue*/
+
+div label{color: white;
+Font-size: 25px;
+Font-family: Georgia;}
+/*This makes the form letter white in the font Georgia */
