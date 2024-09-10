@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>About Us|Cars</title>
+<link rel="stylesheet" type="text/css" href="css/check.css">
+</head>
+
+<body>
+<header class="header">
+<div class= "logo">
+<img src="images/Logo.png" alt="Logo">
+</div>
+<nav class="nav">
+<ul>
+<li><a href="Index.html">Index</a></li>
+<li><a href="AboutUs.html">About Us</a></li>
+<li><a href="Lessons.html">Lessons</a></li>
+<li><a href="Resources.html">Resources</a></li>
+<li><a href="ContactUs.html">Contact Us</a></li>
+</ul>
+</nav>
+</header>
+
+<h1>
+<u>About Us</u>
+</h1>
+<img src="images/Cars.jpg.webp" alt="Cars" class="img">
+<div>
+<p>On this website you will find information about cars.</p>
+</div>
+<p>You will be given details about where each car is from also, with some in depth information about the car companies. We will also show you each brands most popular car model and their most recent cars they've released too.
+<br><br>
+
+<p>These are the few car companies we have information on: </p>
+
+<ul class="red">
+<li>Subaru</li>
+<li>Audi</li>
+<li>Nissan</li>
+<li>Tesla</li>
+<li>Toyota</li>
+<li>Mazda</li>
+<li>Mercedes</li>
+<li>BMW</li>
+<li>Lincoln</li>
+</ul>
+<!--This is an Unordered List listing the cars the website will talk about-->
+
+</body>
+</html>
