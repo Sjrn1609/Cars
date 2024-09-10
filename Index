@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Index|Cars </title>
+<link rel="stylesheet" type="text/css" href="css/check.css">
+</head>
+
+<body>
+<header class="header">
+<div class= "logo">
+<img src="images/Logo.png" alt="Logo">
+</div>
+<nav class="nav">
+<ul>
+<li><a href="Index.html">Index</a></li>
+<li><a href="AboutUs.html">About Us</a></li>
+<li><a href="Lessons.html">Lessons</a></li>
+<li><a href="Resources.html">Resources</a></li>
+<li><a href="ContactUs.html">Contact Us</a></li>
+</ul>
+</nav>
+</header>
+<!--a menu bar for the website-->
+
+<h1>
+<u>Cars</u>
+</h1>
+<p class="center">
+<b>WElCOME TO THIS WEBSITE!</b>
+</p>
+<img src="images/CarLogos.jpg" alt="Car Logos" width="900" class="img">
+<!--Displays the image on the website. If image doesn't display it will say Car Logos and the image would have a width of 900-->
+</body>
+</html>
