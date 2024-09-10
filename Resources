@@ -1,0 +1,97 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Resources|Cars</title>
+<link rel="stylesheet" type="text/css" href="css/check.css">
+</head>
+
+<body>
+<header class="header">
+<div class= "logo">
+<img src="images/Logo.png" alt="Logo">
+</div>
+<nav class="nav">
+<ul>
+<li><a href="Index.html">Index</a></li>
+<li><a href="AboutUs.html">About Us</a></li>
+<li><a href="Lessons.html">Lessons</a></li>
+<li><a href="Resources.html">Resources</a></li>
+<li><a href="ContactUs.html">Contact Us</a></li>
+</ul>
+</nav>
+</header>
+
+<h1>
+<u>Resources</u>
+</h1>
+<p>You will find links to each brands websites on this page.</p>
+<div>
+<ul>
+<li>
+<a href="https://www.subaru.com/index.html" target=_blank>Subaru's Website</a>
+</li>
+
+<li>
+<a href="https://www.audi.co.uk/uk/web/en.html" target=_blank>Audi's Website</a>
+</li>
+
+<li>
+<a href="https://www.nissan.co.uk" target=_blank>Nissan's Website</a>
+</li>
+
+<li>
+<a href="https://www.tesla.com" target=_blank>Tesla's Website</a>
+</li>
+
+<li>
+<a href="https://www.toyota.co.uk" target=_blank>Toyota's Website</a>
+</li>
+
+<li>
+<a href="https://www.mazda.co.uk" target=_blank>Mazda's Website</a>
+</li>
+
+<li>
+<a href="https://www.mercedes-benz.co.uk/passengercars.html?group=all&subgroup=all.saloon&view=BODYTYPE" target=_blank>Mercedes's Website</a>
+</li>
+
+<li>
+<a href="https://www.bmw.co.uk/en/index.html" target=_blank>BMW's Website</a>
+</li>
+
+<li>
+<a href="https://www.lincoln.com" target=_blank>Lincoln's Website</a>
+</li>
+</ul>
+</div>
+<h2>
+<u>Other Cars Websites</u>
+
+</h2>
+<div>
+<ul>
+<li>
+<a href="https://www.landrover.co.uk/index.html" target=_blank>Land Rover's Website</a>
+</li>
+
+<li>
+<a href="https://www.ford.co.uk/cars" target=_blank>Fords's Website</a>
+</li>
+
+<li>
+<a href="https://www.honda.co.uk" target=_blank>Honda's Website</a>
+</li>
+
+<li>
+<a href="https://www.vauxhall.co.uk" target=_blank>Vauxhall's Website</a>
+</li>
+
+<li>
+<a href="https://www.citroen.co.uk" target=_blank>Citroen's Website</a>
+</li>
+</ul>
+</div>
+<!--An unordered list of the brands websites. The "target=_blank" takes the user to an external page.-->
+</body>
+</html>
